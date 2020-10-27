@@ -1,0 +1,14 @@
+longestPalindromeSubstring
+最长回文子串
+
+对应Leetcode题目：
+5
+
+常用方案：
+
+动态规划
+
+最佳解法：
+
+Manchester解法，不做考核
+
